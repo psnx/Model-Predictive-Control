@@ -1,0 +1,10 @@
+prefix=/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8
+libdir=/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8/Ipopt/src/Interfaces
+
+Name: IPOPT
+Description: Interior Point Optimizer
+URL: https://projects.coin-or.org/Ipopt
+Version: 3.12.8
+Libs: ${libdir}/libipopt.la -llapack -lblas -lm  -ldl
+Cflags: -I/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8/Ipopt/src/Interfaces -I/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8/Ipopt/src/Common -I/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8/Ipopt/src/LinAlg -I/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8/Ipopt/src/Algorithm -I/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8/Ipopt/src/contrib/CGPenalty -I/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8/Ipopt/src/contrib/LinearSolverLoader -I/home/tamas/CarND-MPC-Project/Ipopt/Ipopt-3.12.8/Ipopt/src/Common
+Requires: 

@@ -1,0 +1,8 @@
+<map id="Ipopt::RestoConvergenceCheck" name="Ipopt::RestoConvergenceCheck">
+<area shape="rect" id="node6" href="$classIpopt_1_1RestoFilterConvergenceCheck.html" title="This is the implementation of the restoration convergence check is the original algorithm used the fi..." alt="" coords="5,411,216,453"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1RestoPenaltyConvergenceCheck.html" title="This is the implementation of the restoration convergence check is the original algorithm used the fi..." alt="" coords="241,411,468,453"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1OptimalityErrorConvergenceCheck.html" title="Brief Class Description. " alt="" coords="111,246,353,287"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ConvergenceCheck.html" title="Base class for checking the algorithm termination criteria. " alt="" coords="139,171,324,197"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="143,81,321,122"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="145,5,319,32"/>
+</map>

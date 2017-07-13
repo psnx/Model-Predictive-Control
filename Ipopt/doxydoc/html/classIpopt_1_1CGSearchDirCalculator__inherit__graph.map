@@ -1,0 +1,5 @@
+<map id="Ipopt::CGSearchDirCalculator" name="Ipopt::CGSearchDirCalculator">
+<area shape="rect" id="node2" href="$classIpopt_1_1SearchDirectionCalculator.html" title="Base class for computing the search direction for the line search. " alt="" coords="5,171,232,197"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="29,81,208,122"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="31,5,205,32"/>
+</map>

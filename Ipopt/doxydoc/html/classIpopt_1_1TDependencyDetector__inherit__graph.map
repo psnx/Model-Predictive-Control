@@ -1,0 +1,6 @@
+<map id="Ipopt::TDependencyDetector" name="Ipopt::TDependencyDetector">
+<area shape="rect" id="node4" href="$classIpopt_1_1Ma28TDependencyDetector.html" title="Base class for all derived algorithms for detecting linearly dependent rows in the constraint Jacobia..." alt="" coords="5,245,245,272"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1TSymDependencyDetector.html" title="Base class for all derived algorithms for detecting linearly dependent rows in the constraint Jacobia..." alt="" coords="269,245,504,272"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="167,81,345,122"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="169,5,343,32"/>
+</map>

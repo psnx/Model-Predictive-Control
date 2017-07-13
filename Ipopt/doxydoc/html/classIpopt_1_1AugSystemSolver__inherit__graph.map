@@ -1,0 +1,9 @@
+<map id="Ipopt::AugSystemSolver" name="Ipopt::AugSystemSolver">
+<area shape="rect" id="node4" href="$classIpopt_1_1AugRestoSystemSolver.html" title="Class that converts the an augmented system with compound restoration pieces into a smaller &quot;pivoted&quot;..." alt="" coords="691,5,901,32"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1GenAugSystemSolver.html" title="Solver for the augmented system using GenKKTSolverInterfaces. " alt="" coords="695,56,897,83"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1LowRankAugSystemSolver.html" title="Solver for the augmented system with LowRankUpdateSymMatrix Hessian matrices. " alt="" coords="681,107,911,133"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1LowRankSSAugSystemSolver.html" title="Solver for the augmented system with LowRankUpdateSymMatrix Hessian matrices. " alt="" coords="691,158,901,199"/>
+<area shape="rect" id="node8" href="$classIpopt_1_1StdAugSystemSolver.html" title="Solver for the augmented system for triple type matrices. " alt="" coords="697,224,895,251"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="229,99,408,141"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="6,107,181,133"/>
+</map>

@@ -1,0 +1,50 @@
+<map id="Ipopt::AlgorithmStrategyObject" name="Ipopt::AlgorithmStrategyObject">
+<area shape="rect" id="node3" href="$classIpopt_1_1AugSystemSolver.html" title="Base class for Solver for the augmented system. " alt="" coords="485,136,661,163"/>
+<area shape="rect" id="node9" href="$classIpopt_1_1BacktrackingLSAcceptor.html" title="Base class for backtracking line search acceptors. " alt="" coords="465,376,682,403"/>
+<area shape="rect" id="node14" href="$classIpopt_1_1ConvergenceCheck.html" title="Base class for checking the algorithm termination criteria. " alt="" coords="481,476,666,503"/>
+<area shape="rect" id="node16" href="$classIpopt_1_1EqMultiplierCalculator.html" title="Base Class for objects that compute estimates for the equality constraint multipliers y_c and y_d..." alt="" coords="474,527,673,553"/>
+<area shape="rect" id="node18" href="$classIpopt_1_1GenKKTSolverInterface.html" title="Base class for interfaces to symmetric indefinite linear solvers for generic matrices. " alt="" coords="470,577,677,604"/>
+<area shape="rect" id="node19" href="$classIpopt_1_1HessianUpdater.html" title="Abstract base class for objects responsible for updating the Hessian information. ..." alt="" coords="491,628,656,655"/>
+<area shape="rect" id="node22" href="$classIpopt_1_1InexactNewtonNormalStep.html" title="Compute the &quot;Newton&quot; normal step from the (slack&#45;scaled) augmented system. " alt="" coords="457,679,690,705"/>
+<area shape="rect" id="node23" href="$classIpopt_1_1InexactNormalStepCalculator.html" title="Base class for computing the normal step for the inexact step calculation algorithm. " alt="" coords="481,730,666,771"/>
+<area shape="rect" id="node25" href="$classIpopt_1_1InexactPDSolver.html" title="This is the implemetation of the Primal&#45;Dual System, allowing the usage of an inexact linear solver..." alt="" coords="490,796,657,823"/>
+<area shape="rect" id="node26" href="$classIpopt_1_1IpoptAlgorithm.html" title="The main ipopt algorithm class. " alt="" coords="495,847,651,873"/>
+<area shape="rect" id="node27" href="$classIpopt_1_1IterateInitializer.html" title="Base class for all methods for initializing the iterates. " alt="" coords="493,897,653,924"/>
+<area shape="rect" id="node30" href="$classIpopt_1_1IterationOutput.html" title="Base class for objects that do the output summary per iteration. " alt="" coords="494,948,653,975"/>
+<area shape="rect" id="node31" href="$classIpopt_1_1IterativeSolverTerminationTester.html" title="This base class is for the termination tests for the iterative linear solver in the inexact version o..." alt="" coords="459,999,687,1041"/>
+<area shape="rect" id="node32" href="$classIpopt_1_1LineSearch.html" title="Base class for line search objects. " alt="" coords="507,1065,640,1092"/>
+<area shape="rect" id="node33" href="$classIpopt_1_1MetadataMeasurement.html" title="Ipopt::MetadataMeasurement" alt="" coords="467,1116,679,1143"/>
+<area shape="rect" id="node34" href="$classIpopt_1_1MuOracle.html" title="Abstract Base Class for classes that are able to compute a suggested value of the barrier parameter t..." alt="" coords="512,1167,635,1193"/>
+<area shape="rect" id="node35" href="$classIpopt_1_1MuUpdate.html" title="Abstract Base Class for classes that implement methods for computing the barrier and fraction&#45;to&#45;the&#45;..." alt="" coords="509,1217,637,1244"/>
+<area shape="rect" id="node36" href="$classIpopt_1_1PCalculator.html" title="Ipopt::PCalculator" alt="" coords="506,1268,641,1295"/>
+<area shape="rect" id="node37" href="$classIpopt_1_1PDPerturbationHandler.html" title="Class for handling the perturbation factors delta_x, delta_s, delta_c, and delta_d in the primal dual..." alt="" coords="469,1319,678,1345"/>
+<area shape="rect" id="node38" href="$classIpopt_1_1PDSystemSolver.html" title="Pure Primal Dual System Solver Base Class. " alt="" coords="489,1369,658,1396"/>
+<area shape="rect" id="node39" href="$classIpopt_1_1ReducedHessianCalculator.html" title="Ipopt::ReducedHessianCalculator" alt="" coords="458,1420,689,1447"/>
+<area shape="rect" id="node40" href="$classIpopt_1_1RestorationPhase.html" title="Base class for different restoration phases. " alt="" coords="487,1471,660,1497"/>
+<area shape="rect" id="node41" href="$classIpopt_1_1SchurDriver.html" title="Ipopt::SchurDriver" alt="" coords="505,1521,642,1548"/>
+<area shape="rect" id="node42" href="$classIpopt_1_1SearchDirectionCalculator.html" title="Base class for computing the search direction for the line search. " alt="" coords="459,1572,687,1599"/>
+<area shape="rect" id="node43" href="$classIpopt_1_1SensAlgorithm.html" title="Ipopt::SensAlgorithm" alt="" coords="495,1623,651,1649"/>
+<area shape="rect" id="node44" href="$classIpopt_1_1SensBacksolver.html" title="Ipopt::SensBacksolver" alt="" coords="492,1673,655,1700"/>
+<area shape="rect" id="node45" href="$classIpopt_1_1SensitivityStepCalculator.html" title="Ipopt::SensitivityStepCalculator" alt="" coords="463,1724,684,1751"/>
+<area shape="rect" id="node46" href="$classIpopt_1_1SparseSymLinearSolverInterface.html" title="Base class for interfaces to symmetric indefinite linear solvers for sparse matrices. " alt="" coords="466,1775,681,1817"/>
+<area shape="rect" id="node47" href="$classIpopt_1_1SymLinearSolver.html" title="Base class for all derived symmetric linear solvers. " alt="" coords="488,1841,659,1868"/>
+<area shape="rect" id="node48" href="$classIpopt_1_1TDependencyDetector.html" title="Base class for all derived algorithms for detecting linearly dependent rows in the constraint Jacobia..." alt="" coords="471,1892,676,1919"/>
+<area shape="rect" id="node49" href="$classIpopt_1_1TSymScalingMethod.html" title="Base class for the method for computing scaling factors for symmetric matrices in triplet format..." alt="" coords="477,1943,669,1969"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="6,1167,181,1193"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1AugRestoSystemSolver.html" title="Class that converts the an augmented system with compound restoration pieces into a smaller &quot;pivoted&quot;..." alt="" coords="755,5,965,32"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1GenAugSystemSolver.html" title="Solver for the augmented system using GenKKTSolverInterfaces. " alt="" coords="759,56,961,83"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1LowRankAugSystemSolver.html" title="Solver for the augmented system with LowRankUpdateSymMatrix Hessian matrices. " alt="" coords="745,107,975,133"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1LowRankSSAugSystemSolver.html" title="Solver for the augmented system with LowRankUpdateSymMatrix Hessian matrices. " alt="" coords="755,158,965,199"/>
+<area shape="rect" id="node8" href="$classIpopt_1_1StdAugSystemSolver.html" title="Solver for the augmented system for triple type matrices. " alt="" coords="761,224,959,251"/>
+<area shape="rect" id="node10" href="$classIpopt_1_1CGPenaltyLSAcceptor.html" title="Line search acceptor, based on the Chen&#45;Goldfarb penalty function approach. " alt="" coords="759,275,961,301"/>
+<area shape="rect" id="node11" href="$classIpopt_1_1FilterLSAcceptor.html" title="Filter line search. " alt="" coords="777,325,943,352"/>
+<area shape="rect" id="node12" href="$classIpopt_1_1InexactLSAcceptor.html" title="Penalty function line search for the inexact step algorithm version. " alt="" coords="769,376,951,403"/>
+<area shape="rect" id="node13" href="$classIpopt_1_1PenaltyLSAcceptor.html" title="Penalty function line search. " alt="" coords="769,427,951,453"/>
+<area shape="rect" id="node15" href="$classIpopt_1_1OptimalityErrorConvergenceCheck.html" title="Brief Class Description. " alt="" coords="739,478,981,519"/>
+<area shape="rect" id="node17" href="$classIpopt_1_1LeastSquareMultipliers.html" title="Class for calculator for the least&#45;square equality constraint multipliers. " alt="" coords="757,544,963,571"/>
+<area shape="rect" id="node20" href="$classIpopt_1_1ExactHessianUpdater.html" title="Implementation of the HessianUpdater for the use of exact second derivatives. " alt="" coords="760,603,960,629"/>
+<area shape="rect" id="node21" href="$classIpopt_1_1LimMemQuasiNewtonUpdater.html" title="Implementation of the HessianUpdater for limit&#45;memory quasi&#45;Newton approximation of the Lagrangian He..." alt="" coords="759,654,961,695"/>
+<area shape="rect" id="node24" href="$classIpopt_1_1InexactDoglegNormalStep.html" title="Compute the normal step using a dogleg approach. " alt="" coords="745,737,975,764"/>
+<area shape="rect" id="node28" href="$classIpopt_1_1DefaultIterateInitializer.html" title="Class implementing the default initialization procedure (based on user options) for the iterates..." alt="" coords="757,872,963,899"/>
+<area shape="rect" id="node29" href="$classIpopt_1_1RestoIterateInitializer.html" title="Class implementing the default initialization procedure (based on user options) for the iterates..." alt="" coords="763,923,957,949"/>
+</map>

@@ -1,0 +1,6 @@
+<map id="Ipopt::HessianUpdater" name="Ipopt::HessianUpdater">
+<area shape="rect" id="node4" href="$classIpopt_1_1ExactHessianUpdater.html" title="Implementation of the HessianUpdater for the use of exact second derivatives. " alt="" coords="5,253,205,280"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1LimMemQuasiNewtonUpdater.html" title="Implementation of the HessianUpdater for limit&#45;memory quasi&#45;Newton approximation of the Lagrangian He..." alt="" coords="230,246,431,287"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="128,81,307,122"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="130,5,304,32"/>
+</map>

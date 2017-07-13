@@ -1,0 +1,5 @@
+<map id="Ipopt::LeastSquareMultipliers" name="Ipopt::LeastSquareMultipliers">
+<area shape="rect" id="node2" href="$classIpopt_1_1EqMultiplierCalculator.html" title="Base Class for objects that compute estimates for the equality constraint multipliers y_c and y_d..." alt="" coords="9,171,207,197"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="19,81,197,122"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="21,5,195,32"/>
+</map>

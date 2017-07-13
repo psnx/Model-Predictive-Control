@@ -1,0 +1,7 @@
+<map id="Ipopt::MuOracle" name="Ipopt::MuOracle">
+<area shape="rect" id="node4" href="$classIpopt_1_1LoqoMuOracle.html" title="Implementation of the LOQO formula for computing the barrier parameter. " alt="" coords="5,253,157,280"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1ProbingMuOracle.html" title="Implementation of the probing strategy for computing the barrier parameter. " alt="" coords="183,253,353,280"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1QualityFunctionMuOracle.html" title="Implementation of the probing strategy for computing the barrier parameter. " alt="" coords="377,246,556,287"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="179,81,357,122"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="181,5,355,32"/>
+</map>

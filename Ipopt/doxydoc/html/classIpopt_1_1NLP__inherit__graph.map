@@ -1,0 +1,5 @@
+<map id="Ipopt::NLP" name="Ipopt::NLP">
+<area shape="rect" id="node3" href="$classIpopt_1_1NLPBoundsRemover.html" title="This is an adaper for an NLP that converts variable bound constraints to inequality constraints..." alt="" coords="5,155,195,181"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1TNLPAdapter.html" title="This class Adapts the TNLP interface so it looks like an NLP interface. " alt="" coords="220,155,364,181"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="109,5,283,32"/>
+</map>

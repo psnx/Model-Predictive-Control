@@ -1,0 +1,8 @@
+<map id="Ipopt::StandardScalingBase" name="Ipopt::StandardScalingBase">
+<area shape="rect" id="node4" href="$classIpopt_1_1EquilibrationScaling.html" title="This class does problem scaling by setting the scaling parameters based on the maximum of the gradien..." alt="" coords="704,5,891,32"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1GradientScaling.html" title="This class does problem scaling by setting the scaling parameters based on the maximum of the gradien..." alt="" coords="716,56,879,83"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1NoNLPScalingObject.html" title="Class implementing the scaling object that doesn&#39;t to any scaling. " alt="" coords="701,107,893,133"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1UserScaling.html" title="This class does problem scaling by getting scaling parameters from the user (through the NLP interfac..." alt="" coords="728,157,867,184"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1NLPScalingObject.html" title="This is the abstract base class for problem scaling. " alt="" coords="230,81,405,108"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="6,81,181,108"/>
+</map>

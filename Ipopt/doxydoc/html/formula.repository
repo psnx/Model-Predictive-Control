@@ -1,0 +1,35 @@
+\form#0:$\left[\begin{array}{c|c} K & E\\\hline E^T & 0 \end{array} \right] \left[\begin{array}{c}x\\y\end{array}\right] = \left[\begin{array}{c}f\\g\end{array}\right]$
+\form#1:$K^{-1}f$
+\form#2:$P =K^{-1}A$
+\form#3:\[ \left(\begin{array}{cc} K & A\\ B & 0 \end{array}\right) \]
+\form#4:$S \Delta\nu = r_s$
+\form#5:$K\Delta s = ... - \Delta nu$
+\form#6:$ \eta_{\varphi} $
+\form#7:$ \rho $
+\form#8:$\tau_{\pi}$
+\form#9:$\left[\begin{array}{cccc} W + D_x + \delta_xI & 0 & J_c^T & J_d^T\\ 0 & D_s + \delta_sI & 0 & -I \\ J_c & 0 & D_c - \delta_cI & 0\\ J_d & -I & 0 & D_d - \delta_dI \end{array}\right] \left(\begin{array}{c}sol_x\\sol_s\\sol_c\\sol_d\end{array}\right)= \left(\begin{array}{c}rhs_x\\rhs_s\\rhs_c\\rhs_d\end{array}\right)$
+\form#10:$ \delta $
+\form#11:$ s_{\varphi} $
+\form#12:$ s_{\Theta} $
+\form#13:$ \gamma_{\varphi} $
+\form#14:$ \gamma_{\Theta} $
+\form#15:$ \gamma_{\alpha} $
+\form#16:$ \kappa_{soc}$
+\form#17:$ x = S^{-1}(r + \alpha Z P^T d)$
+\form#18:$ \left[\begin{array}{cccccccc} W & 0 & J_c^T & J_d^T & -P^x_L & P^x_U & 0 & 0 \\ 0 & 0 & 0 & -I & 0 & 0 & -P_L^d & P_U^d \\ J_c & 0 & 0 & 0 & 0 & 0 & 0 & 0\\ J_d & -I & 0 & 0 & 0 & 0 & 0 & 0\\ Z_L(P_L^x)^T & 0 & 0 & 0 & Sl^x_L & 0 & 0 & 0\\ -Z_U(P_U^x)^T & 0 & 0 & 0 & 0 & Sl^x_U & 0 & 0\\ 0 & V_L(P_L^d)^T & 0 & 0 & 0 & 0 & Sl^s_L & 0 \\ 0 & -V_U(P_U^d)^T & 0 & 0 & 0 & 0 & 0 & Sl^s_U \\ \end{array}\right] \left(\begin{array}{c} sol_x\\ sol_s\\ sol_c\\ sol_d\\ sol^z_L\\ sol^z_U\\ sol^v_L\\ sol^v_U \end{array}\right) = \left(\begin{array}{c} rhs_x\\ rhs_s\\ rhs_c\\ rhs_d\\ rhs^z_L\\ rhs^z_U\\ rhs^v_L\\ rhs^v_U \end{array}\right) $
+\form#19:$Sl^x_L = (P^x_L)^T x - x_L$
+\form#20:$Sl^x_U = x_U - (P^x_U)^T x$
+\form#21:$Sl^d_L = (P^d_L)^T d(x) - d_L$
+\form#22:$Sl^d_U = d_U - (P^d_U)^T d(x)$
+\form#23:$res = \alpha * sol + \beta * res$
+\form#24:$\left[\begin{array}{cc}J_c & 0\\J_d & -I\end{array}\right]$
+\form#25:$ \delta_x$
+\form#26:$ \delta_s$
+\form#27:$ \delta_c$
+\form#28:$ \delta_d$
+\form#29:$ M_{\rm compound} = \left(\begin{array}{cccc}M_{00} & M_{01} & \ldots & M_{0,{\rm ncomp\_cols}-1} \\ \dots &&&\dots \\ M_{{\rm ncomp\_rows}-1,0} & M_{{\rm ncomp\_rows}-1,1} & \dots & M_{{\rm ncomp\_rows}-1,{\rm ncomp\_cols}-1}\end{array}\right)$
+\form#30:$ x_{\rm compound} = \left(\begin{array}{c}x_0\\\dots\\x_{{\rm ncomps} - 1}\end{array}\right)$
+\form#31:$y_i \gets y_i/x_i$
+\form#32:$y_i \gets y_i*x_i$
+\form#33:$\alpha = \max\{\bar\alpha\in(0,1] : x + \bar\alpha \Delta \geq (1-\tau)x\}$
+\form#34:$a_{1,2}=a_{2,1}$

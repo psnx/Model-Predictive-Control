@@ -1,0 +1,6 @@
+<map id="Ipopt::MuUpdate" name="Ipopt::MuUpdate">
+<area shape="rect" id="node4" href="$classIpopt_1_1AdaptiveMuUpdate.html" title="Non&#45;monotone mu update. " alt="" coords="5,245,189,272"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1MonotoneMuUpdate.html" title="Monotone Mu Update. " alt="" coords="213,245,405,272"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="113,81,292,122"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="115,5,289,32"/>
+</map>

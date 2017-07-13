@@ -1,0 +1,7 @@
+<map id="Ipopt::SearchDirectionCalculator" name="Ipopt::SearchDirectionCalculator">
+<area shape="rect" id="node4" href="$classIpopt_1_1CGSearchDirCalculator.html" title="Implementation of the search direction calculator that computes the Chen&#45;Goldfarb step for the curren..." alt="" coords="747,5,955,32"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1InexactSearchDirCalculator.html" title="Implementation of the search direction calculator that computes the search direction using iterative ..." alt="" coords="733,56,968,83"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1PDSearchDirCalculator.html" title="Implementation of the search direction calculator that computes the pure primal dual step for the cur..." alt="" coords="747,107,954,133"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="229,49,408,90"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="6,56,181,83"/>
+</map>

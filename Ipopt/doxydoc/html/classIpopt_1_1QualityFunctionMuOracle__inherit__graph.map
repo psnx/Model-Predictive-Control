@@ -1,0 +1,5 @@
+<map id="Ipopt::QualityFunctionMuOracle" name="Ipopt::QualityFunctionMuOracle">
+<area shape="rect" id="node2" href="$classIpopt_1_1MuOracle.html" title="Abstract Base Class for classes that are able to compute a suggested value of the barrier parameter t..." alt="" coords="33,171,156,197"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="5,81,184,122"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="7,5,181,32"/>
+</map>

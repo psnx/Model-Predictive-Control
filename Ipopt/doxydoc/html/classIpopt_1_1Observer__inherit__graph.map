@@ -1,0 +1,9 @@
+<map id="Ipopt::Observer" name="Ipopt::Observer">
+<area shape="rect" id="node2" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Ipopt::SmartPtr\&lt; const\l Ipopt::Matrix \&gt; \&gt;" alt="" coords="614,235,799,291"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Ipopt::SmartPtr\&lt; const\l Ipopt::SymMatrix \&gt; \&gt;" alt="" coords="614,504,799,560"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Ipopt::SmartPtr\&lt; const\l Ipopt::Vector \&gt; \&gt;" alt="" coords="614,108,799,164"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Ipopt::SmartPtr\&lt; Ipopt\l::Vector \&gt; \&gt;" alt="" coords="615,5,798,61"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Number \&gt;" alt="" coords="621,323,792,365"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; void * \&gt;" alt="" coords="621,405,792,446"/>
+<area shape="rect" id="node8" href="$classIpopt_1_1DependentResult.html" title="Templated class which stores one entry for the CachedResult class. " alt="" coords="176,284,384,311"/>
+</map>

@@ -1,0 +1,28 @@
+<map id="Ipopt::Subject" name="Ipopt::Subject">
+<area shape="rect" id="node2" href="$classIpopt_1_1TaggedObject.html" title="TaggedObject class. " alt="" coords="166,452,314,479"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1Matrix.html" title="Matrix Base Class. " alt="" coords="364,300,465,327"/>
+<area shape="rect" id="node24" href="$classIpopt_1_1Vector.html" title="Vector Base Class. " alt="" coords="363,604,466,631"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1CompoundMatrix.html" title="Class for Matrices consisting of other matrices. " alt="" coords="528,5,699,32"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1DenseGenMatrix.html" title="Class for dense general matrices. " alt="" coords="529,56,697,83"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1ExpandedMultiVectorMatrix.html" title="Class for Matrices with few rows that consists of Vectors, together with a premultiplied Expansion ma..." alt="" coords="515,107,711,149"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1ExpansionMatrix.html" title="Class for expansion/projection matrices. " alt="" coords="530,173,697,200"/>
+<area shape="rect" id="node8" href="$classIpopt_1_1GenTMatrix.html" title="Class for general matrices stored in triplet format. " alt="" coords="546,224,681,251"/>
+<area shape="rect" id="node9" href="$classIpopt_1_1MultiVectorMatrix.html" title="Class for Matrices with few columns that consists of Vectors. " alt="" coords="527,275,699,301"/>
+<area shape="rect" id="node10" href="$classIpopt_1_1ScaledMatrix.html" title="Class for a Matrix in conjunction with its scaling factors for row and column scaling. " alt="" coords="541,325,685,352"/>
+<area shape="rect" id="node11" href="$classIpopt_1_1SumMatrix.html" title="Class for Matrices which are sum of matrices. " alt="" coords="548,376,679,403"/>
+<area shape="rect" id="node12" href="$classIpopt_1_1SymMatrix.html" title="This is the base class for all derived symmetric matrix types. " alt="" coords="548,427,679,453"/>
+<area shape="rect" id="node22" href="$classIpopt_1_1TransposeMatrix.html" title="Class for Matrices which are the transpose of another matrix. " alt="" coords="531,477,696,504"/>
+<area shape="rect" id="node23" href="$classIpopt_1_1ZeroMatrix.html" title="Class for Matrices with only zero entries. " alt="" coords="547,528,679,555"/>
+<area shape="rect" id="node13" href="$classIpopt_1_1CompoundSymMatrix.html" title="Class for symmetric matrices consisting of other matrices. " alt="" coords="776,199,976,225"/>
+<area shape="rect" id="node14" href="$classIpopt_1_1DenseSymMatrix.html" title="Class for dense symetrix matrices. " alt="" coords="791,249,961,276"/>
+<area shape="rect" id="node15" href="$classIpopt_1_1DiagMatrix.html" title="Class for diagonal matrices. " alt="" coords="811,300,941,327"/>
+<area shape="rect" id="node16" href="$classIpopt_1_1IdentityMatrix.html" title="Class for Matrices which are multiples of the identity matrix. " alt="" coords="802,351,950,377"/>
+<area shape="rect" id="node17" href="$classIpopt_1_1LowRankUpdateSymMatrix.html" title="Class for symmetric matrices, represented as low&#45;rank updates. " alt="" coords="760,401,992,428"/>
+<area shape="rect" id="node18" href="$classIpopt_1_1SumSymMatrix.html" title="Class for Matrices which are sum of symmetric matrices. " alt="" coords="796,452,956,479"/>
+<area shape="rect" id="node19" href="$classIpopt_1_1SymScaledMatrix.html" title="Class for a Matrix in conjunction with its scaling factors for row and column scaling. " alt="" coords="789,503,963,529"/>
+<area shape="rect" id="node20" href="$classIpopt_1_1SymTMatrix.html" title="Class for symmetric matrices stored in triplet format. " alt="" coords="807,553,945,580"/>
+<area shape="rect" id="node21" href="$classIpopt_1_1ZeroSymMatrix.html" title="Class for Symmetric Matrices with only zero entries. " alt="" coords="795,604,957,631"/>
+<area shape="rect" id="node25" href="$classIpopt_1_1CompoundVector.html" title="Class of Vectors consisting of other vectors. " alt="" coords="527,604,700,631"/>
+<area shape="rect" id="node27" href="$classIpopt_1_1DenseVector.html" title="Dense Vector Implementation. " alt="" coords="541,655,685,681"/>
+<area shape="rect" id="node26" href="$classIpopt_1_1IteratesVector.html" title="Specialized CompoundVector class specifically for the algorithm iterates. " alt="" coords="800,655,952,681"/>
+</map>

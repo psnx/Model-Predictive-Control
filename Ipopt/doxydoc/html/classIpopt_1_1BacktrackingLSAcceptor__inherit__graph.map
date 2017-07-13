@@ -1,0 +1,8 @@
+<map id="Ipopt::BacktrackingLSAcceptor" name="Ipopt::BacktrackingLSAcceptor">
+<area shape="rect" id="node4" href="$classIpopt_1_1CGPenaltyLSAcceptor.html" title="Line search acceptor, based on the Chen&#45;Goldfarb penalty function approach. " alt="" coords="723,5,925,32"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1FilterLSAcceptor.html" title="Filter line search. " alt="" coords="741,56,907,83"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1InexactLSAcceptor.html" title="Penalty function line search for the inexact step algorithm version. " alt="" coords="733,107,915,133"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1PenaltyLSAcceptor.html" title="Penalty function line search. " alt="" coords="733,157,915,184"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="229,74,408,115"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="6,81,181,108"/>
+</map>

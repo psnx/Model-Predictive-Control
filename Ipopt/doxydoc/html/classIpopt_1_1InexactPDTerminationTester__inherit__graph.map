@@ -1,0 +1,5 @@
+<map id="Ipopt::InexactPDTerminationTester" name="Ipopt::InexactPDTerminationTester">
+<area shape="rect" id="node2" href="$classIpopt_1_1IterativeSolverTerminationTester.html" title="This base class is for the termination tests for the iterative linear solver in the inexact version o..." alt="" coords="5,171,232,213"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="29,81,208,122"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="31,5,205,32"/>
+</map>

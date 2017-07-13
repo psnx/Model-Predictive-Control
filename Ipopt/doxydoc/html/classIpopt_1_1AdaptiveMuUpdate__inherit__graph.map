@@ -1,0 +1,5 @@
+<map id="Ipopt::AdaptiveMuUpdate" name="Ipopt::AdaptiveMuUpdate">
+<area shape="rect" id="node2" href="$classIpopt_1_1MuUpdate.html" title="Abstract Base Class for classes that implement methods for computing the barrier and fraction&#45;to&#45;the&#45;..." alt="" coords="33,171,161,197"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="8,81,187,122"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="10,5,184,32"/>
+</map>

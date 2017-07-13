@@ -1,0 +1,50 @@
+<map id="Ipopt::TNLP" name="Ipopt::TNLP">
+<area shape="rect" id="node3" href="$classHS071__NLP.html" title="C++ Example NLP for interfacing a problem with IPOPT. " alt="" coords="411,5,509,32"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1AmplTNLP.html" title="Ampl Interface. " alt="" coords="397,56,523,83"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1MySensTNLP.html" title="Ipopt::MySensTNLP" alt="" coords="388,107,532,133"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1ParametricTNLP.html" title="Ipopt::ParametricTNLP" alt="" coords="379,157,541,184"/>
+<area shape="rect" id="node8" href="$classIpopt_1_1StdInterfaceTNLP.html" title="Implementation of a TNLP for the Standard C interface. " alt="" coords="374,208,546,235"/>
+<area shape="rect" id="node9" href="$classIpopt_1_1TNLPReducer.html" title="This is a wrapper around a given TNLP class that takes out a list of constraints that are given to th..." alt="" coords="387,259,533,285"/>
+<area shape="rect" id="node10" href="$classIpoptRNLP.html" title="IpoptRNLP" alt="" coords="417,309,503,336"/>
+<area shape="rect" id="node11" href="$classMatlabProgram.html" title="MatlabProgram" alt="" coords="400,360,520,387"/>
+<area shape="rect" id="node12" href="$classMyNLP.html" title="C++ Example NLP for interfacing a problem with IPOPT. " alt="" coords="427,411,493,437"/>
+<area shape="rect" id="node13" href="$classRegisteredTNLP.html" title="Class implemented the NLP discretization of. " alt="" coords="399,461,521,488"/>
+<area shape="rect" id="node49" href="$classTutorialCpp__NLP.html" title="TutorialCpp_NLP" alt="" coords="398,512,522,539"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="6,259,181,285"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1SensAmplTNLP.html" title="Ipopt::SensAmplTNLP" alt="" coords="631,56,790,83"/>
+<area shape="rect" id="node14" href="$classLuksanVlcek1.html" title="Implementation of Example 5.1 from &quot;Sparse and Parially Separable Test Problems for Unconstrained and..." alt="" coords="656,107,765,133"/>
+<area shape="rect" id="node15" href="$classLuksanVlcek2.html" title="Implementation of Example 5.2 from &quot;Sparse and Parially Separable Test Problems for Unconstrained and..." alt="" coords="656,157,765,184"/>
+<area shape="rect" id="node16" href="$classLuksanVlcek3.html" title="Implementation of Example 5.3 from &quot;Sparse and Parially Separable Test Problems for Unconstrained and..." alt="" coords="656,208,765,235"/>
+<area shape="rect" id="node17" href="$classLuksanVlcek4.html" title="Implementation of Example 5.4 from &quot;Sparse and Parially Separable Test Problems for Unconstrained and..." alt="" coords="656,259,765,285"/>
+<area shape="rect" id="node18" href="$classLuksanVlcek5.html" title="Implementation of Example 5.5 from &quot;Sparse and Parially Separable Test Problems for Unconstrained and..." alt="" coords="656,309,765,336"/>
+<area shape="rect" id="node19" href="$classLuksanVlcek6.html" title="Implementation of Example 5.6 from &quot;Sparse and Parially Separable Test Problems for Unconstrained and..." alt="" coords="656,360,765,387"/>
+<area shape="rect" id="node20" href="$classLuksanVlcek7.html" title="Implementation of Example 5.7 from &quot;Sparse and Parially Separable Test Problems for Unconstrained and..." alt="" coords="656,411,765,437"/>
+<area shape="rect" id="node21" href="$classMittelmannBndryCntrlDiriBase.html" title="Base class for boundary control problems with Dirichlet boundary conditions, as formulated by Hans Mi..." alt="" coords="603,461,818,488"/>
+<area shape="rect" id="node26" href="$classMittelmannBndryCntrlDiriBase3D.html" title="Base class for boundary control problems with Dirichlet boundary conditions, as formulated by Hans Mi..." alt="" coords="619,513,802,554"/>
+<area shape="rect" id="node28" href="$classMittelmannBndryCntrlDiriBase3D__27.html" title="Base class for boundary control problems with Dirichlet boundary conditions, as formulated by Hans Mi..." alt="" coords="619,578,802,619"/>
+<area shape="rect" id="node31" href="$classMittelmannBndryCntrlDiriBase3Dsin.html" title="Base class for boundary control problems with Dirichlet boundary conditions, as formulated by Hans Mi..." alt="" coords="619,643,802,685"/>
+<area shape="rect" id="node33" href="$classMittelmannBndryCntrlNeumBase.html" title="Base class for boundary control problems with Neumann boundary conditions, as formulated by Hans Mitt..." alt="" coords="595,752,827,779"/>
+<area shape="rect" id="node38" href="$classMittelmannDistCntrlDiriBase.html" title="Base class for distributed control problems with Dirichlet boundary conditions, as formulated by Hans..." alt="" coords="609,955,812,981"/>
+<area shape="rect" id="node43" href="$classMittelmannDistCntrlNeumABase.html" title="Base class for distributed control problems with homogeneous Neumann boundary conditions, as formulated by Hans Mittelmann as Examples 4&#45;6 in &quot;Optimization Techniques for Solving Elliptic Control Problems with Control and State Constraints. " alt="" coords="596,1056,825,1083"/>
+<area shape="rect" id="node47" href="$classMittelmannDistCntrlNeumBBase.html" title="Base class for distributed control problems with homogeneous Neumann boundary conditions, as formulated by Hans Mittelmann as Examples 4&#45;6 in &quot;Optimization Techniques for Solving Elliptic Control Problems with Control and State Constraints. " alt="" coords="596,1107,825,1133"/>
+<area shape="rect" id="node48" href="$classMittelmannParaCntrlBase.html" title="Base class for parabolic and elliptic control problems, as formulated by Hans Mittelmann as problem (..." alt="" coords="600,1157,821,1184"/>
+<area shape="rect" id="node22" href="$classMittelmannBndryCntrlDiri1.html" title="Class implementating Example 1. " alt="" coords="891,280,1082,307"/>
+<area shape="rect" id="node23" href="$classMittelmannBndryCntrlDiri2.html" title="Class implementating Example 2. " alt="" coords="891,331,1082,357"/>
+<area shape="rect" id="node24" href="$classMittelmannBndryCntrlDiri3.html" title="Class implementating Example 3. " alt="" coords="891,381,1082,408"/>
+<area shape="rect" id="node25" href="$classMittelmannBndryCntrlDiri4.html" title="Class implementating Example 4. " alt="" coords="891,432,1082,459"/>
+<area shape="rect" id="node27" href="$classMittelmannBndryCntrlDiri3D.html" title="Class implementating Example 1. " alt="" coords="887,483,1087,509"/>
+<area shape="rect" id="node29" href="$classMittelmannBndryCntrlDiri3D__27.html" title="Class implementating case with convex quadratic penalty function. " alt="" coords="875,533,1098,560"/>
+<area shape="rect" id="node30" href="$classMittelmannBndryCntrlDiri3D__27BT.html" title="Class implementating case with nonconvex Beaton&#45;Tukey like penalty function. " alt="" coords="891,585,1082,626"/>
+<area shape="rect" id="node32" href="$classMittelmannBndryCntrlDiri3Dsin.html" title="Class implementating Example 1. " alt="" coords="877,651,1096,677"/>
+<area shape="rect" id="node34" href="$classMittelmannBndryCntrlNeum1.html" title="Class implementating Example 5. " alt="" coords="883,701,1091,728"/>
+<area shape="rect" id="node35" href="$classMittelmannBndryCntrlNeum2.html" title="Class implementating Example 6. " alt="" coords="883,752,1091,779"/>
+<area shape="rect" id="node36" href="$classMittelmannBndryCntrlNeum3.html" title="Class implementating Example 7. " alt="" coords="883,803,1091,829"/>
+<area shape="rect" id="node37" href="$classMittelmannBndryCntrlNeum4.html" title="Class implementating Example 8. " alt="" coords="883,853,1091,880"/>
+<area shape="rect" id="node39" href="$classMittelmannDistCntrlDiri1.html" title="Class implementating Example 1. " alt="" coords="897,904,1076,931"/>
+<area shape="rect" id="node40" href="$classMittelmannDistCntrlDiri2.html" title="Class implementating Example 2. " alt="" coords="897,955,1076,981"/>
+<area shape="rect" id="node41" href="$classMittelmannDistCntrlDiri3.html" title="Class implementating Example 3. " alt="" coords="897,1005,1076,1032"/>
+<area shape="rect" id="node42" href="$classMittelmannDistCntrlDiri3a.html" title="MittelmannDistCntrlDiri3a" alt="" coords="893,1056,1080,1083"/>
+<area shape="rect" id="node44" href="$classMittelmannDistCntrlNeumA1.html" title="Class implementating Example 4. " alt="" coords="884,1107,1089,1133"/>
+<area shape="rect" id="node45" href="$classMittelmannDistCntrlNeumA2.html" title="Class implementating Example 5. " alt="" coords="884,1157,1089,1184"/>
+<area shape="rect" id="node46" href="$classMittelmannDistCntrlNeumA3.html" title="Class implementating Example 6. " alt="" coords="884,1208,1089,1235"/>
+</map>

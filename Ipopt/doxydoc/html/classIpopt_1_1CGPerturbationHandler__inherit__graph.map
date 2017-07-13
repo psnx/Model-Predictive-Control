@@ -1,0 +1,5 @@
+<map id="Ipopt::CGPerturbationHandler" name="Ipopt::CGPerturbationHandler">
+<area shape="rect" id="node2" href="$classIpopt_1_1PDPerturbationHandler.html" title="Class for handling the perturbation factors delta_x, delta_s, delta_c, and delta_d in the primal dual..." alt="" coords="6,171,215,197"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="21,81,200,122"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="23,5,197,32"/>
+</map>

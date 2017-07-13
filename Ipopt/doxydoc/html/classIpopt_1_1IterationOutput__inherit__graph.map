@@ -1,0 +1,6 @@
+<map id="Ipopt::IterationOutput" name="Ipopt::IterationOutput">
+<area shape="rect" id="node4" href="$classIpopt_1_1OrigIterationOutput.html" title="Class for the iteration summary output for the original NLP. " alt="" coords="5,245,189,272"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1RestoIterationOutput.html" title="Class for the iteration summary output for the restoration phase. " alt="" coords="215,245,409,272"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="115,81,293,122"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="117,5,291,32"/>
+</map>

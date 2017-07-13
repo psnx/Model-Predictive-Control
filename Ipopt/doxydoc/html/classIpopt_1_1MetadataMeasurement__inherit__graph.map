@@ -1,0 +1,6 @@
+<map id="Ipopt::MetadataMeasurement" name="Ipopt::MetadataMeasurement">
+<area shape="rect" id="node2" href="$classIpopt_1_1Measurement.html" title="Ipopt::Measurement" alt="" coords="5,88,155,115"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="166,5,340,32"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1SuffixHandler.html" title="This class is the interface for all classes that can return indices. " alt="" coords="180,88,327,115"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="351,81,529,122"/>
+</map>

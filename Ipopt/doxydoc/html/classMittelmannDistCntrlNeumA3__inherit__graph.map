@@ -1,0 +1,6 @@
+<map id="MittelmannDistCntrlNeumA3" name="MittelmannDistCntrlNeumA3">
+<area shape="rect" id="node2" href="$classMittelmannDistCntrlNeumABase.html" title="Base class for distributed control problems with homogeneous Neumann boundary conditions, as formulated by Hans Mittelmann as Examples 4&#45;6 in &quot;Optimization Techniques for Solving Elliptic Control Problems with Control and State Constraints. " alt="" coords="5,229,235,256"/>
+<area shape="rect" id="node3" href="$classRegisteredTNLP.html" title="Class implemented the NLP discretization of. " alt="" coords="59,155,180,181"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1TNLP.html" title="Base class for all NLP&#39;s that use standard triplet matrix form and dense vectors. ..." alt="" coords="73,80,167,107"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="33,5,207,32"/>
+</map>

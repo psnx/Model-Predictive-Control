@@ -1,0 +1,5 @@
+<map id="Ipopt::ExactHessianUpdater" name="Ipopt::ExactHessianUpdater">
+<area shape="rect" id="node2" href="$classIpopt_1_1HessianUpdater.html" title="Abstract base class for objects responsible for updating the Hessian information. ..." alt="" coords="23,171,188,197"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1AlgorithmStrategyObject.html" title="This is the base class for all algorithm strategy objects. " alt="" coords="16,81,195,122"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="18,5,192,32"/>
+</map>

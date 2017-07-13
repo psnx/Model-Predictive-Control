@@ -1,0 +1,5 @@
+<map id="Ipopt::NoNLPScalingObject" name="Ipopt::NoNLPScalingObject">
+<area shape="rect" id="node2" href="$classIpopt_1_1StandardScalingBase.html" title="This is a base class for many standard scaling techniques. " alt="" coords="5,155,203,181"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1NLPScalingObject.html" title="This is the abstract base class for problem scaling. " alt="" coords="17,80,191,107"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="17,5,191,32"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="Ipopt::DependentResult&lt; T &gt;" name="Ipopt::DependentResult&lt; T &gt;">
+<area shape="rect" id="node3" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Ipopt::SmartPtr\&lt; const\l Ipopt::Vector \&gt; \&gt;" alt="" coords="614,5,799,61"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Ipopt::SmartPtr\&lt; Ipopt\l::Vector \&gt; \&gt;" alt="" coords="615,85,798,141"/>
+<area shape="rect" id="node5" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Number \&gt;" alt="" coords="621,166,792,207"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; void * \&gt;" alt="" coords="621,231,792,273"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Ipopt::SmartPtr\&lt; const\l Ipopt::SymMatrix \&gt; \&gt;" alt="" coords="614,297,799,353"/>
+<area shape="rect" id="node8" href="$classIpopt_1_1DependentResult.html" title="Ipopt::DependentResult\l\&lt; Ipopt::SmartPtr\&lt; const\l Ipopt::Matrix \&gt; \&gt;" alt="" coords="614,377,799,433"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1Observer.html" title="Slight Variation of the Observer Design Pattern. " alt="" coords="5,207,125,233"/>
+</map>

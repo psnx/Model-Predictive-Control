@@ -1,0 +1,8 @@
+<map id="Ipopt::Vector" name="Ipopt::Vector">
+<area shape="rect" id="node5" href="$classIpopt_1_1CompoundVector.html" title="Class of Vectors consisting of other vectors. " alt="" coords="5,229,179,256"/>
+<area shape="rect" id="node7" href="$classIpopt_1_1DenseVector.html" title="Dense Vector Implementation. " alt="" coords="203,229,347,256"/>
+<area shape="rect" id="node2" href="$classIpopt_1_1TaggedObject.html" title="TaggedObject class. " alt="" coords="109,80,256,107"/>
+<area shape="rect" id="node3" href="$classIpopt_1_1ReferencedObject.html" title="ReferencedObject class. " alt="" coords="13,5,187,32"/>
+<area shape="rect" id="node4" href="$classIpopt_1_1Subject.html" title="Slight Variation of the Observer Design Pattern (Subject part). " alt="" coords="211,5,321,32"/>
+<area shape="rect" id="node6" href="$classIpopt_1_1IteratesVector.html" title="Specialized CompoundVector class specifically for the algorithm iterates. " alt="" coords="16,304,168,331"/>
+</map>
