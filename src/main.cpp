@@ -114,11 +114,11 @@ int main() {
           double *ptry = &ptsy[0];
           Eigen::Map<Eigen::VectorXd> ptsy_transform(ptry, 6);
             
-          //auto coeffs =  polyfit(ptsx_transform, ptsy_transform, 1);
+          //3rd grade polynomial fit 
           auto coeffs =  polyfit(ptsx_transform, ptsy_transform, 3);
           
           double cte = polyeval(coeffs, 0);
-          // error in orientation (yaw) angle 
+          // simplified error in orientation (yaw) angle 
           double epsi = -atan(coeffs[1]);
 
 
@@ -133,6 +133,13 @@ int main() {
           *
           * Both are in between [-1, 1].
           *
+          */
+          // simplified linear v prediction with assuming a = 0 (Zero or hold)
+          /*
+          double latency;
+          x += v * CppAD::cos(psi) * latency;
+          y += v * CppAD::sin(psi) * latency; //shall be close to 0 
+          psi += -v*steer_value*latency/2.67;
           */
 
           auto vars = mpc.Solve(state, coeffs);
@@ -193,7 +200,7 @@ int main() {
           //
           // NOTE: REMEMBER TO SET THIS TO 100 MILLISECONDS BEFORE
           // SUBMITTING.
-          this_thread::sleep_for(chrono::milliseconds(0));
+          this_thread::sleep_for(chrono::milliseconds(100));
           ws.send(msg.data(), msg.length(), uWS::OpCode::TEXT);
         }
       } else {
