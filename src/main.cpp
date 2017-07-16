@@ -101,12 +101,12 @@ int main() {
             ptsy[i] = (shift_x * sin(0-psi) + shift_y * cos(0-psi));
           }
 
-          /*diag*/
+          /*diag
           cout << "ptsx values. Size" << ptsx.size();
           for (auto& p : ptsx) {
             cout << p;
           }
-
+          */
           double *ptrx = &ptsx[0];
           Eigen::Map<Eigen::VectorXd> ptsx_transform(ptrx, 6);
 
@@ -136,6 +136,7 @@ int main() {
 
           auto vars = mpc.Solve(state, coeffs);
           
+          //yellow line we want the car to follow
           vector<double> next_x_vals;
           vector<double> next_y_vals;
           double poly_inc = 2.5;
@@ -146,6 +147,8 @@ int main() {
             next_y_vals.push_back(polyeval(coeffs, poly_inc*i));
           }
 
+          //Display the MPC predicted trajectory (green line)
+
           vector<double> mpc_x_vals;
           vector<double> mpc_y_vals;
           for (int i = 2; i < vars.size(); i++)
@@ -155,16 +158,12 @@ int main() {
 
           json msgJson;
           // NOTE: Remember to divide by deg2rad(25) before you send the steering value back.
-          // Otherwise the values will be in between [-deg2rad(25), deg2rad(25] instead of [-1, 1].
+          // Otherwise the values will be in between [-deg2rad(25), deg2rad(25] instead of [-1, 1].          
+          
+          
           msgJson["steering_angle"] = vars[0] / (deg2rad(25)*2.67);
-          msgJson["throttle"] = throttle_value;
+          msgJson["throttle"] =  vars[1];
           
-          
-
-          //Display the MPC predicted trajectory 
-          //vector<double> mpc_x_vals;
-          //vector<double> mpc_y_vals;
-
           //.. add (x,y) points to list here, points are in reference to the vehicle's coordinate system
           // the points in the simulator are connected by a Green line
 
