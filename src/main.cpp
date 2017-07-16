@@ -114,6 +114,7 @@ int main() {
           double *ptry = &ptsy[0];
           Eigen::Map<Eigen::VectorXd> ptsy_transform(ptry, 6);
             
+          //auto coeffs =  polyfit(ptsx_transform, ptsy_transform, 1);
           auto coeffs =  polyfit(ptsx_transform, ptsy_transform, 3);
           
           double cte = polyeval(coeffs, 0);
@@ -192,7 +193,7 @@ int main() {
           //
           // NOTE: REMEMBER TO SET THIS TO 100 MILLISECONDS BEFORE
           // SUBMITTING.
-          this_thread::sleep_for(chrono::milliseconds(100));
+          this_thread::sleep_for(chrono::milliseconds(0));
           ws.send(msg.data(), msg.length(), uWS::OpCode::TEXT);
         }
       } else {
