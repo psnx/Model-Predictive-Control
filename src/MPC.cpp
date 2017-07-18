@@ -8,9 +8,6 @@ using CppAD::AD;
 // TODO: Set the timestep length and duration
 size_t N = 10;
 double dt = .1;
-
-double ref_cte = 0;
-double ref_epsi = 0;
 double ref_v = 70;
 
 size_t x_start = 0;
@@ -212,7 +209,6 @@ class FG_eval {
     }
   }
 };
-
 //
 // MPC class definition implementation.
 //
