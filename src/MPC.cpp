@@ -11,7 +11,7 @@ double dt = .1;
 
 double ref_cte = 0;
 double ref_epsi = 0;
-double ref_v = 100;
+double ref_v = 70;
 
 size_t x_start = 0;
 size_t y_start = x_start + N;
@@ -138,8 +138,8 @@ class FG_eval {
 
     // Minimize the use of actuators.
     for (int t = 0; t < N - 1; t++) {
-      fg[0] += 10*CppAD::pow(vars[delta_start + t], 2);
-      fg[0] += 10*CppAD::pow(vars[a_start + t], 2);
+      fg[0] += 5*CppAD::pow(vars[delta_start + t], 2);
+      fg[0] += 5*CppAD::pow(vars[a_start + t], 2);
     }
 
     // Minimize the value gap between sequential actuations.
@@ -231,10 +231,6 @@ vector<double> MPC::Solve(Eigen::VectorXd x0, Eigen::VectorXd coeffs)
   double v = x0[3];
   double cte = x0[4];
   double epsi = x0[5];  
-  
-  // simplified linear v prediction with assuming a = 0 (Zero or hold)
-  x += v * CppAD::cos(psi) * 0.1;
-  y += v * CppAD::sin(psi) * 0.1;
   
 
 
